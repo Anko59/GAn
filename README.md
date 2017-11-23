@@ -18,7 +18,7 @@ __Generator Model__
 **__Results__**
 
 We are aware that our model is too small to achieve any significant results. Truth is we lack the computing power for a larger one.
-Nonetheless, we have trained it on a 940mx Nvidia GPU.  
+Nonetheless, we trained it on a 940mx Nvidia GPU.  
 Here are some examples of generated images:
 
 A Deer:  
